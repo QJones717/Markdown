@@ -2,6 +2,7 @@
 
 ## About Me
 Hi! I am 22 years old and from Saint Louis, MO. 
+![ME](Profile.jpg)
 
 ### Hobbies
 - [Golfing](/golfing.md) 
