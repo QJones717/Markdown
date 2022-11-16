@@ -7,6 +7,6 @@ Hi! I am 22 years old and from Saint Louis.
 - Golfing
 - Coding
 - Watching Sports
-- ~~ Lectures ~~
+- ~~Lectures~~
 
 **Created by Quinn Jones for IT 1600
