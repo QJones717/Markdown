@@ -1,8 +1,8 @@
 # Quinn Jones
 
 ## About Me
-Hi! I am 22 years old and from Saint Louis, MO. 
-![ME](Profile.jpg)
+### Hi! I am 22 years old and from Saint Louis, MO. 
+### <img src="Profile.jpg" width="200" height="250">
 
 ### Hobbies
 - [Golfing](/golfing.md) 
