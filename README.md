@@ -4,7 +4,7 @@
 Hi! I am 22 years old and from Saint Louis, MO. 
 
 ### Hobbies
-- [Golfing](/Markdown/golfing.md) 
+- [Golfing](QJones717/Markdown/golfing.md) 
 - Coding
 - Watching Sports
 - ~~Lectures~~
